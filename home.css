@@ -1,0 +1,24 @@
+body {
+	padding-top: 20px; 
+}
+#img {
+	height: 40%;
+}
+#homepage{
+	margin-top: 100px;
+}
+.jumbotron{
+	color: #2c3e50;
+}
+.navbar-default{
+    background:  #2c3e50;
+}
+.navbar-default .navbar-nav>li>a{
+	color: white;
+}
+.navbar-default .navbar-brand{
+	color: white;
+}
+#table-font{
+	font-size: 1.5em;
+}
